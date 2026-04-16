@@ -65,6 +65,9 @@ body {
        display: flex;
     }
 }
+.botoes:first-child{
+    border-radius: 40px 0 0 0;
+}
         .botoes:last-child{
     border-radius: 0 40px 0 0;
         }
